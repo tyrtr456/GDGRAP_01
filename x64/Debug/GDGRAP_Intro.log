@@ -1,6 +1,2 @@
 ﻿  GDGRAP_Intro.cpp
-E:\GDGRAP\GDGRAP_GeneralRepos\GDGRAP_01\GDGRAP_Intro.cpp(30,35): warning C4305: 'initializing': truncation from 'double' to 'float'
-E:\GDGRAP\GDGRAP_GeneralRepos\GDGRAP_01\GDGRAP_Intro.cpp(34,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-E:\GDGRAP\GDGRAP_GeneralRepos\GDGRAP_01\GDGRAP_Intro.cpp(35,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
   GDGRAP_Intro.vcxproj -> E:\GDGRAP\GDGRAP_GeneralRepos\GDGRAP_01\x64\Debug\GDGRAP_Intro.exe
