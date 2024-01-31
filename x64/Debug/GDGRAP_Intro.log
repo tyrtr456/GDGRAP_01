@@ -1,2 +1,5 @@
 ﻿  GDGRAP_Intro.cpp
+E:\GDGRAP\GDGRAP_GeneralRepos\GDGRAP_01\GDGRAP_Intro.cpp(60,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\GDGRAP\GDGRAP_GeneralRepos\GDGRAP_01\GDGRAP_Intro.cpp(60,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\GDGRAP\GDGRAP_GeneralRepos\GDGRAP_01\GDGRAP_Intro.cpp(306,30): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
   GDGRAP_Intro.vcxproj -> E:\GDGRAP\GDGRAP_GeneralRepos\GDGRAP_01\x64\Debug\GDGRAP_Intro.exe
